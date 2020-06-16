@@ -1,0 +1,15 @@
+#!powershell
+
+Enter-AzShell
+
+#!powershell
+
+Get-Module
+
+#!powershell
+
+kubectl version
+
+#!powershell
+
+exit
